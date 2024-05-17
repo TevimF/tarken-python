@@ -25,7 +25,7 @@ Detecção de meteoros acima da superfície da água.
 O código foi estruturado em várias funções para facilitar a manutenção e compreensão.
 
 <h2>2. Funcionalidades</h2>
-<h3>2.1. getColor(image, x, y)<h2>
+<h3>2.1. getColor(image, x, y)</h3>
 Esta função retorna a cor RGB de um pixel específico na imagem.
 
 <h3>2.2. addColor(cor, margem)</h3>
